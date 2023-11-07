@@ -1,0 +1,5 @@
+torch
+optimum
+transformers
+onnx
+onnxruntime
